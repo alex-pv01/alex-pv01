@@ -1,1 +1,5 @@
-# alex-pv01
+- 👋 Hi, I’m Àlex
+- 👀 I’m interested in Machine Learning and Quantum Computing
+- 🌱 I’m currently enrolled in a Double Master in Advanced Mathematics and Fundamental Principles of Data Science at Universitat de Barcelona
+- 💞️ I’m looking to collaborate on ML research projects
+- 📫 How to reach me alex-pv01@proton.me
