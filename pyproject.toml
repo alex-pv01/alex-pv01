@@ -6,7 +6,7 @@
 name = "waka-readme"
 version = "0.2.5"
 description = "Wakatime Weekly Metrics on your Profile Readme."
-authors = [{ name = "Athul Cyriac Ajay", email = "athul8720@gmail.com" }]
+authors = [{ name = "Àlex Pujol Vidal", email = "alex-pv01@proton.me" }]
 license = { text = "MIT" }
 readme = "README.md"
 keywords = ["readme", "profile-page", "wakatime"]
@@ -19,10 +19,10 @@ requires-python = ">=3.11"
 dependencies = ["faker>=19.6.1", "pygithub>=1.59.1", "requests>=2.31.0"]
 
 [project.urls]
-Homepage = "https://github.com/athul/waka-readme"
-Documentation = "https://github.com/athul/waka-readme#readme"
-Repository = "https://github.com/athul/waka-readme"
-Changelog = "https://github.com/athul/waka-readme/commits/master"
+Homepage = "https://github.com/alex-pv01/waka-readme"
+Documentation = "https://github.com/alex-pv01/waka-readme#readme"
+Repository = "https://github.com/alex-pv01/waka-readme"
+Changelog = "https://github.com/alex-pv01/waka-readme/commits/master"
 
 #############################
 #   Optional Dependencies   #
