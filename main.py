@@ -143,7 +143,7 @@ class WakaInput:
     # # optional
     show_title: str | bool = os.getenv("INPUT_SHOW_TITLE") or False
     block_style: str = os.getenv("INPUT_BLOCKS", "░▒▓█")
-    time_range: str = os.getenv("INPUT_TIME_RANGE", "last_7_days")
+    time_range: str = os.getenv("INPUT_TIME_RANGE", "last_year")
     show_time: str | bool = os.getenv("INPUT_SHOW_TIME") or False
     show_total_time: str | bool = os.getenv("INPUT_SHOW_TOTAL") or False
     show_masked_time: str | bool = os.getenv("INPUT_SHOW_MASKED_TIME") or False
