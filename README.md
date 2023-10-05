@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **about AI/ML research.**
 
-- 📫 How to reach me **alex-pv01@proton.me*
+- 📫 How to reach me **alex-pv01@proton.me**
 
 <h3 align="center">Code stats:</h3>
 <!--START_SECTION:waka-->
