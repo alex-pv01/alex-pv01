@@ -13,20 +13,20 @@
 <!--START_SECTION:waka-->
 
 ```rust
-From: 02 October 2023 - To: 31 October 2023
+From: 02 October 2023 - To: 01 November 2023
 
-Total Time: 54 hrs 50 mins
+Total Time: 59 hrs 30 mins
 
-Python           40 hrs 20 mins  >>>>>>>>>>>>>>>>>>-------   73.36 %
-YAML             5 hrs 29 mins   >>-----------------------   09.98 %
-Bash             3 hrs 25 mins   >>-----------------------   06.21 %
-Docker           2 hrs 9 mins    >------------------------   03.92 %
-Markdown         1 hr 48 mins    >------------------------   03.30 %
-Text             23 mins         -------------------------   00.72 %
-GDScript         19 mins         -------------------------   00.58 %
-JSON             15 mins         -------------------------   00.47 %
-Ezhil            12 mins         -------------------------   00.37 %
-ActionScript 3   8 mins          -------------------------   00.26 %
+Python           43 hrs 33 mins  >>>>>>>>>>>>>>>>>>-------   73.05 %
+YAML             6 hrs 54 mins   >>>----------------------   11.59 %
+Bash             3 hrs 25 mins   >------------------------   05.73 %
+Docker           2 hrs 9 mins    >------------------------   03.62 %
+Markdown         1 hr 48 mins    >------------------------   03.04 %
+Text             23 mins         -------------------------   00.67 %
+GDScript         19 mins         -------------------------   00.53 %
+JSON             15 mins         -------------------------   00.43 %
+Ezhil            12 mins         -------------------------   00.34 %
+ActionScript 3   8 mins          -------------------------   00.24 %
 ```
 
 <!--END_SECTION:waka-->
