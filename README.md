@@ -13,15 +13,15 @@
 <!--START_SECTION:waka-->
 
 ```rust
-From: 02 October 2023 - To: 17 April 2024
+From: 02 October 2023 - To: 18 April 2024
 
-Total Time: 371 hrs 12 mins
+Total Time: 371 hrs 38 mins
 
-Python                     181 hrs 3 mins  >>>>>>>>>>>>-------------   48.70 %
-TeX                        105 hrs 24 mins >>>>>>>------------------   28.36 %
-Bash                       24 hrs 11 mins  >>-----------------------   06.51 %
+Python                     181 hrs 28 mins >>>>>>>>>>>>-------------   48.76 %
+TeX                        105 hrs 24 mins >>>>>>>------------------   28.32 %
+Bash                       24 hrs 11 mins  >>-----------------------   06.50 %
 YAML                       21 hrs 41 mins  >------------------------   05.83 %
-Markdown                   19 hrs 18 mins  >------------------------   05.20 %
+Markdown                   19 hrs 18 mins  >------------------------   05.19 %
 Docker                     9 hrs 7 mins    >------------------------   02.45 %
 Text                       5 hrs 7 mins    -------------------------   01.38 %
 BibTeX                     1 hr 29 mins    -------------------------   00.40 %
