@@ -8,9 +8,9 @@
 - 🌱 I’m currently learning **about AI/ML research.**
 
 - 📫 How to reach me **alex-pv01@proton.me**
-
+<!--
 <h3 align="center">Code stats:</h3>
-<!--START_SECTION:waka-->
+START_SECTION:waka
 
 ```rust
 From: 02 October 2023 - To: 05 June 2024
@@ -29,7 +29,7 @@ HTML                       1 hr            -------------------------   00.25 %
 Git Config                 50 mins         -------------------------   00.21 %
 ```
 
-<!--END_SECTION:waka-->
+END_SECTION:waka-->
 
 
 <h3 align="center">Languages and Tools:</h3>
