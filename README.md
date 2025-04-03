@@ -1,25 +1,71 @@
-<h1 align="center">Hi 👋, I'm Àlex</h1>
-<h3 align="center">A mathematician and computer vision researcher based in Barcelona & Aalborg</h3>
+<div align="center">
+  <img src="https://i.imgur.com/your-banner-image.png" alt="Hyperbolic Space Visualization" width="100%"/>
+</div>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=alex-pv01&label=Profile%20views&color=0e75b6&style=flat" alt="alex-pv01" /> </p>
+# 🌀 Alex PV | Exploring the Geometry of Machine Learning
 
-- 🔭 I'm currently pursuing a **PhD at the Visual Perception Analysis Lab, Aalborg University**, focused on **Hyperbolic Learning, Concept Representation, and Machine Unlearning**
+<p align="center">
+  <i>PhD Researcher at the intersection of hyperbolic geometry and AI</i><br>
+  <code>Hyperbolic Learning</code> • <code>Concept Representation</code> • <code>Machine Unlearning</code>
+</p>
 
-- 🧑‍🏫 Working under the supervision of **Prof. Thomas B. Moeslund, Assoc. Prof. Kamal Nasrollahi, and Prof. Sergio Escalera**
+## 🧮 Current Research
 
-- 💰 My research is funded by the **Milestone Research Programme**
+I'm investigating how non-Euclidean geometries can revolutionize AI's ability to understand hierarchical concepts and selectively forget information. My work on **hyperbolic contrastive unlearning** explores the fundamental question:
 
-- 🌱 I'm currently exploring **hyperbolic contrastive unlearning approaches and their applications to concept removal**
+> "How does the underlying geometry of representation space affect our ability to edit and remove concepts from AI models?"
 
-- 📫 How to reach me **alexpv@create.aau.dk**
+<details>
+<summary><b>📚 Research Foundation</b></summary>
+<br>
+- 🔭 PhD Researcher at <b>Visual Perception Analysis Lab, Aalborg University</b><br>
+- 🧑‍🏫 Supervised by <b>Prof. Thomas B. Moeslund</b>, <b>Assoc. Prof. Kamal Nasrollahi</b>, and <b>Prof. Sergio Escalera</b><br>
+- 💰 Research funded by the <b>Milestone Research Programme</b><br>
+- 🌐 Splitting time between Barcelona & Aalborg
+</details>
 
+<details>
+<summary><b>⚙️ Technical Toolbox</b></summary>
+<br>
+<p align="center">
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++"/>
+  <img src="https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white" alt="LaTeX"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+</p>
+</details>
 
-🔗 Research Connections
+## 📊 Current Projects
 
-- [Visual Perception Analysis Lab, Aalborg University](https://vap.aau.dk/)
-- [Milestone Systems A/S](https://www.milestonesys.com/) 
-- [Human Pose Recovery and Behavior Analysis Group](https://hupba.com/)
+- 🌀 **MERU-Unlearn**: Adapting unlearning mechanisms to hyperbolic representation spaces
+- 🧠 **Hierarchical Concept Learning**: Understanding how concept hierarchies impact representation learning
+- 🔄 **Geometric Contrastive Learning**: Exploring the benefits of non-Euclidean spaces for contrastive representation learning
 
+## 🔗 Research Connections
 
-<h3 align="center">Languages and Tools:</h3>
-<p align="center"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a>  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+<p align="center">
+  <a href="https://vap.aau.dk/" target="_blank">
+    <img src="https://img.shields.io/badge/VAP_Lab-Aalborg_University-0B5394?style=flat-square" alt="VAP Lab"/>
+  </a>
+  <a href="https://www.milestonesys.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Milestone_Systems-Research_Programme-FF6B00?style=flat-square" alt="Milestone Systems"/>
+  </a>
+  <a href="https://hupba.com/" target="_blank">
+    <img src="https://img.shields.io/badge/HuPBA-UB/CVC-990000?style=flat-square" alt="HuPBA Group"/>
+  </a>
+</p>
+
+## 📬 Connect
+
+<p align="center">
+  <a href="mailto:alexpv@create.aau.dk">
+    <img src="https://img.shields.io/badge/Email-alexpv@create.aau.dk-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://scholar.google.com/citations?user=KtNIzQcAAAAJ&hl=ca" target="_blank">
+    <img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white" alt="Google Scholar"/>
+  </a>
+  <a href="https://x.com/alexpujolv" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
+  </a>
+</p>
