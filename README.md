@@ -5,7 +5,7 @@
 # 🌀 Alex PV | Exploring the Geometry of Machine Learning
 
 <p align="center">
-  <i>PhD Researcher at the intersection of hyperbolic geometry and AI</i><br>
+  <i>PhD Researcher at the intersection of non-Euclidean geometry and AI</i><br>
   <code>Hyperbolic Learning</code> • <code>Concept Representation</code> • <code>Machine Unlearning</code>
 </p>
 
