@@ -2,7 +2,7 @@
   <img src="https://i.imgur.com/your-banner-image.png" alt="Hyperbolic Space Visualization" width="100%"/>
 </div>
 
-# 🌀 Alex PV | Exploring the Geometry of Machine Learning
+# 🌀 Àlex PV | Exploring the Geometry of Machine Learning
 
 <p align="center">
   <i>PhD Researcher at the intersection of non-Euclidean geometry and AI</i><br>
